@@ -1,0 +1,18 @@
+
+/*****************************************/
+subida PROD 30-03-2026
+
+/***************************************/
+MKData - ajuste da atualização cadastral 
+{mevo} {solus}
+# migra-paciente
+
+/*******************************************************/
+# check-in telemedicina - A e I
+# ajustes do Fleury
+# números telefone carteirinha
+# Google Play R.e.j.e.c.t.e.d  
+# 
+
+
+

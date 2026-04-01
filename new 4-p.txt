@@ -1,0 +1,16 @@
+GIT
+# para listar os arquivos dentro de uma branch
+git ls-tree -r --name-only pagination
+
+#adicionar o arquivo di-hoje.txt
+git add di-hoje.txt
+
+# enviar o commit para a branch pagination
+git push -u origin pagination
+
+#trocar de branch
+git checkout pagination
+
+#listar branch
+git checkout
+ 
